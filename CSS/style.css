@@ -57,7 +57,7 @@ header{
  display: flex;
  justify-content: center;
  align-items: center;
- background-image:url('https://sporefrog.github.io/Github-Website/Images/mushbackground2.jpg');
+ background-image:url(https://sporefrog.github.io/Github-Website/Images/mushbackground2.jpg);
  height: 200px;
 background-size: cover;
 font-family:'Special Elite',sans-serif;
