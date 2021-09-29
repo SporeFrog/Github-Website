@@ -50,14 +50,14 @@ table {
 body{
   margin:0;
   /* background-color:#c2c5aa50; */
-  background-image: url(/Images/leafbackground1.jpg);
+  background-image: url(https://sporefrog.github.io/Github-Website/Images/leafbackground1.jpg);
   background-size:cover;
 }
 header{
  display: flex;
  justify-content: center;
  align-items: center;
- background-image:url('/Images/mushbackground2.jpg');
+ background-image:url('https://sporefrog.github.io/Github-Website/Images/mushbackground2.jpg');
  height: 200px;
 background-size: cover;
 font-family:'Special Elite',sans-serif;
